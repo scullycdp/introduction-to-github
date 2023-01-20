@@ -1,4 +1,4 @@
 ---
-title: This is my test
+title: Welcome to my blog
 ---
 
